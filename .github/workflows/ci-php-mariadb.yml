@@ -17,7 +17,7 @@ jobs:
         env:
           MARIADB_DATABASE: incidencias
           MARIADB_USER: app_incidencias
-          MARIADB_PASSWORD: clave_falsa
+          MARIADB_PASSWORD: clave_ci
           MARIADB_ROOT_PASSWORD: root_ci
 
     env:
